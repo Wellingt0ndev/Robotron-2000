@@ -4,5 +4,5 @@ Nesse projeto utilizei o JavaScript para deixar a página do Robotron 2000 dinâ
 
 
 
-Com esse link abaixo você consegue visualizar como ficou.
-https://robotron-2000-flame-zeta.vercel.app/
+
+[Clique aqui](https://robotron-2000-flame-zeta.vercel.app/) para acessar o projeto.
